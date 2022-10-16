@@ -1,0 +1,27 @@
+.cd{
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    margin-left: 120px;
+    margin-top: 100px;
+    float: left;
+    border-color: black;
+    padding: 10px 10px;
+    border: 10px solid grey;
+}
+
+button{
+    float: inline-start;
+    margin-top: 10px;
+    margin-left: 120px;
+    border-radius: 5px;
+    display: block;
+   }
+   
+h4{
+    margin-top: 250PX;
+    font-family:  Arial, Helvetica, sans-serif;
+    color: tomato;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
